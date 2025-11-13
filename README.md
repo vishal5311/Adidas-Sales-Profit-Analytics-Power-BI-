@@ -1,65 +1,20 @@
-🏷️ Adidas Sales & Profit Analytics Dashboard
+ADIDAS SALES & PROFIT ANALYTICS DASHBOARD
+• Power BI • Business Intelligence
+<div align="center"> <img width="700" src="https://i.pinimg.com/originals/38/fb/24/38fb24becd9a52b0278f6e2a8f5d2315.jpg" alt="Dashboard Banner"/> </div>
+⚡ ✨ Executive Dashboard Summary
 
-A Power BI dashboard delivering end-to-end analysis of Adidas sales performance across regions, retailers, product types, and customer segments. This project highlights key performance indicators, financial breakdowns, and actionable insights for business decision-making.
+A visually immersive dark-themed data analytics dashboard delivering deep insights into Adidas sales, profitability, and customer dynamics.
 
-📊 Overview
+🃏 Key Performance Cards
+<div align="center"> <table> <tr> <td style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0px 0px 12px #00d4ff;"> <h3 align="center">💵 Total Sales</h3> <p align="center"><b style="font-size:26px; color:#00eaff;">$182M</b></p> </td> <td style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0px 0px 12px #ff0099;"> <h3 align="center">📦 Units Sold</h3> <p align="center"><b style="font-size:26px; color:#ff7bff;">462K</b></p> </td> <td style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0px 0px 12px #8fff00;"> <h3 align="center">💰 Operating Profit</h3> <p align="center"><b style="font-size:26px; color:#c6ff59;">$63M</b></p> </td> </tr> </table> </div>
 
-This dashboard visualizes Adidas sales for the year 2020, offering comprehensive insights into:
+🔥 Sales Breakdown Cards
+🎯 Product Category Performance
+<div align="center"> <table> <tr> <td style="background:#10121a; padding:18px; border-radius:12px; width:32%; box-shadow:0 0 12px #00eaff88;"> <b style="color:#00eaff;">Street Footwear</b><br> <span style="font-size:22px;">$65M</span> </td> <td style="background:#10121a; padding:18px; border-radius:12px; width:32%; box-shadow:0 0 12px #ff7bff88;"> <b style="color:#ff7bff;">Apparel</b><br> <span style="font-size:22px;">$61M</span> </td> <td style="background:#10121a; padding:18px; border-radius:12px; width:32%; box-shadow:0 0 12px #ffaa0088;"> <b style="color:#ffaa00;">Athletic Footwear</b><br> <span style="font-size:22px;">$55M</span> </td> </tr> </table> </div>
+🌍 Regional Insights (Dark Map Mode)
+🗺️ Sales by Region
 
-Revenue performance
-
-Unit sales
-
-Profit distribution
-
-Retailer competitiveness
-
-Regional trends
-
-Product segmentation
-
-It allows stakeholders to quickly identify high-performing segments and uncover growth opportunities.
-
-📈 Key Performance Indicators (KPIs)
-Metric	Value
-Total Sales	$182M
-Units Sold	462K
-Operating Profit	$63M
-Analysis Period	Year 2020
-💰 Financial Performance Breakdown
-Sales by Product Type
-
-Street Footwear: $65M
-
-Apparel: $61M
-
-Athletic Footwear: $55M
-
-Operating Profit by Product Type
-
-Street Footwear: 39.07%
-
-Apparel: 27.85%
-(Other categories shown visually in the dashboard.)
-
-Sales by Customer Gender
-
-Men: $96M
-
-Women: $86M
-
-Sales by Sales Channel
-
-In-store: $94M
-
-Online: $84M
-
-Outlet: $5M
-
-🌎 Geographical Performance
-Sales by Region
-
-West: $77M
+West dominates with $77M, followed by:
 
 South: $41M
 
@@ -69,74 +24,37 @@ Midwest: $25M
 
 Northeast: $7M
 
-Sales by City
 
-New York: $38M
+🛒 Retailer Performance Dashboard
+🏬 Top Retailers
+Retailer	Sales
+West Gear	$90M
+Foot Locker	$43M
+Walmart	$33M
+Sports Direct	$15M
+Kohl’s	$1M
+⭐ Amazon	$78M
+🌃 City Highlights
 
-Miami: $35M
+Top-performing cities based on profitability and demand:
 
-🛒 Retailer Performance Analysis
+New York – $38M
 
-West Gear: $90M
+Miami – $35M
 
-Foot Locker: $43M
 
-Walmart: $33M
+🧠 Key Insights Summary
 
-Sports Direct: $15M
+Street Footwear delivers strongest profit (39.07%).
 
-Kohl’s: $1M
+West Region leads overall sales dominance.
 
-Additional retailer view (from a separate breakdown):
+In-store remains the highest-grossing channel.
 
-Amazon:
+Amazon + West Gear are top retail performers.
 
-Sales: $78M
+Balanced gender distribution → wide-market appeal.
 
-Units Sold: 198K
-
-🧠 Insights & Observations
-
-West Region and West Gear are the dominant revenue contributors.
-
-Street Footwear leads both sales and profit margin.
-
-Online and In-store channels contribute almost equally, indicating strong omnichannel performance.
-
-New York and Miami are the strongest city-level markets.
-
-🛠️ Technologies Used
-
-Power BI – Data visualization & dashboard creation
-
-Excel / CSV – Data source (assumed typical for BI projects)
-
-Data Analysis Techniques:
-
-Sales forecasting
-
-Profit contribution analysis
-
-Category segmentation
-
-Geographical analysis
-
-📥 Files Included
-
-You may list your files like this once uploaded:
-
-Adidas_Sales_Report.pdf
-
-README.md (this document)
-
-🚀 How to Use
-
-Clone/download the repository.
-
-Open the .pbix file in Power BI Desktop.
-
-Explore filters, slicers, and visual insights.
-
-📇 Author
+✍️ Author
 
 K S Vishal
